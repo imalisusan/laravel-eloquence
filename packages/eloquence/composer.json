@@ -1,0 +1,21 @@
+{
+    "name": "imalisusan/laravel-eloquence",
+    "description": "An ORM enhancement tool for Laravel that allows you to define a model, its attributes, and relationships in one file and then generate the model, migration, and seeder automatically in an effort to write less code and increase productivity.",
+    "type": "library",
+    "require": {
+        "laravel/framework": "^10.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Imalisusan\\LaravelEloquence\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Imali Susan",
+            "email": "susanimali52@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
